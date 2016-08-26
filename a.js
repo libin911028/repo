@@ -1,2 +1,4 @@
 var abc='123456'；
-var git='asda';
+var g='asda';
+
+//a人修改了代码
